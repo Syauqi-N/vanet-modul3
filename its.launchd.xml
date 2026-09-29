@@ -1,0 +1,8 @@
+<launch>
+  <copy file="its.net.xml" />
+  <copy file="its.rou.xml" />
+  <copy file="its.poly.xml" />
+  <copy file="its.sumocfg" type="config" />
+  <basedir path="/home/soqisoqi/vanet-praktikum/its" />
+  <seed value="0" />
+</launch>
